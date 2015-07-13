@@ -20,3 +20,5 @@
 * ブランチ
  - git branch ブランチを作る
  - git checkout ブランチを切り替える
+
+  +お試し
